@@ -18,3 +18,9 @@
 
 ## 支持的数据导出格式
 支持多种数据导出格式：EXCEL，CSV，JSON，HTML
+
+## 联系我们
+对该脚本使用的任何问题和建议，敬请提交 issue，以便跟踪处理和经验沉淀共享。你也可以扫描下面的二维码，加入我们的**微信群**，以获得更快速的响应。
+<div align=center>
+    <img src="https://user-images.githubusercontent.com/20476924/179728256-321c0cb5-d7c4-47f7-af02-23652cf61c35.jpg" width="200" alt="微信扫码添加">
+</div>
