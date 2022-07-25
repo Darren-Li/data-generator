@@ -1,8 +1,10 @@
 # data-generator（数据模拟/生成器）
 
 ## 快速模拟真实业务场景数据
+Fast simulation of real business scenario data
 
 自定义快速实现贴合真实场景的数据模拟/生成，帮助你更好地实现产品性能测试、演示环境搭建、BI报表设计和Demo搭建。
+Customized rapid implementation of data simulation/generation in accordance with the real scene, to help you better achieve product performance testing, demonstration environment, BI report design and Demo construction.
 
 ## 支持的字段类型
 1. 支持基础类型字段生成，如：数字，序号，ID，布尔值，时间，日期，文本等
