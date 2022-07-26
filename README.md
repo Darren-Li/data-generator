@@ -19,7 +19,8 @@ Customized rapid implementation of data simulation/generation in accordance with
 10. 支持设置字段缺失率
 
 ## 支持的数据导出格式
-支持多种数据导出格式：EXCEL，CSV，JSON，HTML
+1. 支持多种数据导出格式：EXCEL，CSV，JSON，HTML
+2. 支持以压缩文件格式导出
 
 ## 联系我们
 对该脚本使用的任何问题和建议，敬请提交 issue，以便跟踪处理和经验沉淀共享。你也可以扫描下面的二维码，加入我们的**微信群**，以获得更快速的响应。
