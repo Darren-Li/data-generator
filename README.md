@@ -1,5 +1,9 @@
 # data-generator（数据模拟/生成器）
 
+项目已经更新：
+- 代码开源，自行下载：https://github.com/Darren-Li/Ingesta
+- 在线demo，试试看：https://aha-ingesta.streamlit.app/
+
 ## 快速模拟真实业务场景数据
 Fast simulation of real business scenario data
 
